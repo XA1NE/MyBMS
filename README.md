@@ -1,5 +1,6 @@
 # MyBMS, Real-Time Building Management System Prototype with Cloud Technologies.
 Author: Kamil Kawka
+
 BSc Computer Science Project Type 3, 2021/2022
 
 Project consists of the following parts:
