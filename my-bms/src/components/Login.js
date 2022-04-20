@@ -2,7 +2,6 @@
  * Login component of the web app, responsible for displaying the login form.
  * and handling the login process.
  * 
- * @noparam
  * @author Kamil Kawka
  * 
  */

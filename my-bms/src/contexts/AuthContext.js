@@ -1,3 +1,10 @@
+/**
+ * Backend authentication context.
+ * 
+ * @author Kamil Kawka
+ * 
+ */
+
 import React, { useContext, useState, useEffect } from 'react'
 import { auth } from '../services/firebaseconfig'
 
@@ -9,17 +16,22 @@ export function useAuth() {
 }
 
 export default function AuthProvider({ children }) {
+
+    // User state
     const [currentUser, setCurrentUser] = useState()
     const [loading, setLoading] = useState(true)
 
+    // Login effect
     function login(email, password) {
         return auth.signInWithEmailAndPassword(email, password) // Firebase function
     }
 
+    // Logout effect
     function logout() {
         return auth.signOut() // Firebase function
     }
 
+    // Listen for auth state changes
     useEffect(() => {
         const unsubscribe = auth.onAuthStateChanged(user => {
             setCurrentUser(user)

@@ -1,7 +1,6 @@
 /**
  * Creates private routes.
  * 
- * @noparam
  * @author Kamil Kawka
  * 
  */

@@ -2,7 +2,6 @@
  * Dashboard component, allows access to the building data
  * for authenticated users.
  * 
- * @noparam
  * @author Kamil Kawka
  * 
  */

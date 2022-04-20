@@ -1,7 +1,6 @@
 /**
  * App component, creates routes to the components of the web app.
  * 
- * @noparam
  * @author Kamil Kawka
  * 
  */
