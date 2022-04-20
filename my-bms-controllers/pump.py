@@ -1,9 +1,10 @@
 ###
+#
 # This is a class to control a pump.
 # It is a subclass of the Chiller class.
 # 
-# @author K. Kawka
-# @version 1.0
+# @author: Kamil Kawka
+#
 ###
 
 # Import Firebase Real-Time Database API

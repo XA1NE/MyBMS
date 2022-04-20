@@ -1,3 +1,14 @@
+###
+#
+# This is a temperature sensor class.
+# It is responsible for generating a random temperature value
+# to simulate the flow and return temperature of coolant
+# supplied by an associated chiller.
+# 
+# @author: Kamil Kawka
+#
+###
+
 from firebaseconfig import *
 
 import random

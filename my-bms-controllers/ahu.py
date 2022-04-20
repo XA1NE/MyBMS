@@ -1,4 +1,5 @@
 ###
+#
 # This is an Air Handling Unit (AHU) model.
 # It is a simple model that can be used to simulate the operation of an AHU.
 # It is based on the following assumptions:
@@ -7,8 +8,8 @@
 # Depending on the type of air handler (AHU-1 or AHU-2), the AHU
 # operates as a primary or secondary system when the mode is set to AUTO.
 #
-# @author: K. Kawka    OFF = 0, ON = 1/Running = 1, AUTO = 2/Standby = 2
-# @version: 1.0
+# @author: Kamil Kawka
+#
 ###
 
 # Import Firebase Real-Time Database API

@@ -1,8 +1,9 @@
 ###
-# This is a class to control a chiller unit.
 #
-# @author K. Kawka
-# @version 1.0
+# This is a class that creates and controls a chiller unit.
+#
+# @author: Kamil Kawka
+#
 ###
 
 # Import Firebase Real-Time Database API
