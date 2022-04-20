@@ -1,0 +1,1 @@
+# This is the Selenium tests application, it requires a WebDriver, Node.js v16+ and any version of Java to take advantage of the JVM.

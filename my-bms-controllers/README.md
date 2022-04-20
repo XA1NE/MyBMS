@@ -1,0 +1,1 @@
+# This is the simulator.py script that creates objects of IoT device classes. to run all you have to do is install Python 3 and use "python3 simulator.py" command in the terminal.
