@@ -1,5 +1,5 @@
 /**
- * AHU test file, it tests the AHU component
+ * AHU unit tests, it tests the AHU component
  * makes sure the device displays the correct information
  * based on the data from its state.
  * 

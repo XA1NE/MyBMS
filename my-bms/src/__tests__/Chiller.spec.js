@@ -1,5 +1,5 @@
 /**
- * Chiller test file, it tests the Chiller component
+ * Chiller unit tests, it tests the Chiller component
  * makes sure the device displays the correct information
  * based on the data from its state.
  * 

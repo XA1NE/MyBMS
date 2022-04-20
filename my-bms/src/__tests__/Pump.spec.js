@@ -1,5 +1,5 @@
 /**
- * Pump test file, it tests the Pump component
+ * Pump unit tests, it tests the Pump component
  * makes sure the device displays the correct information
  * based on the data from its state.
  * 
