@@ -10,3 +10,5 @@ This project consists of the following parts:
     * my-bms: The web application that provides user interface built with React.
 
     * selenium-tests: Selenium tests responsible for integration and functional testing.
+
+    * Project Report: Encompasses the design and thought process behind the entire system.
