@@ -3,7 +3,7 @@
  * It is responsible for displaying the information about the AHU
  * and its sensors.
  * 
- * @author Kamil Kawka
+ * @author XA1NE
  * @param {string} deviceName - The name of the device.
  * 
  */

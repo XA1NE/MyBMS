@@ -2,7 +2,7 @@
  * DeviceHealth Component, responsible for displaying data
  * about the device's connection status.
  * 
- * @author Kamil Kawka
+ * @author XA1NE
  * @param {string} deviceName - The name of the device.
  * 
  */

@@ -2,7 +2,7 @@
 #
 # This is a class that creates and controls a chiller unit.
 #
-# @author: Kamil Kawka
+# @author: XA1NE
 #
 ###
 

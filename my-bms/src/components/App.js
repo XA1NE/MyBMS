@@ -1,7 +1,7 @@
 /**
  * App component, creates routes to the components of the web app.
  * 
- * @author Kamil Kawka
+ * @author XA1NE
  * 
  */
 

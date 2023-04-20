@@ -2,7 +2,7 @@
  * Login component of the web app, responsible for displaying the login form.
  * and handling the login process.
  * 
- * @author Kamil Kawka
+ * @author XA1NE
  * 
  */
 

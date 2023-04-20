@@ -4,7 +4,7 @@
 # from classes and invokes main methods of
 # simulated devices 
 #
-# @Author:   Kamil Kawka
+# @Author:   XA1NE
 #
 ###
 

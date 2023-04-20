@@ -1,7 +1,7 @@
 /**
  * IoT device data store
  * 
- * @author Kamil Kawka
+ * @author XA1NE
  * @params deviceName - device name
  * 
  */

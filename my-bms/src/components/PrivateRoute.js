@@ -1,7 +1,7 @@
 /**
  * Creates private routes.
  * 
- * @author Kamil Kawka
+ * @author XA1NE
  * 
  */
 

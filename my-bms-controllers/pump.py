@@ -3,7 +3,7 @@
 # This is a class to control a pump.
 # It is a subclass of the Chiller class.
 # 
-# @author: Kamil Kawka
+# @author: XA1NE
 #
 ###
 

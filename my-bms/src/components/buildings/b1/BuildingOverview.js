@@ -3,7 +3,7 @@
  * Displays environmental data and connection status
  * of the intelligent devices.
  * 
- * @author Kamil Kawka
+ * @author XA1NE
  * @noparam
  * 
  */

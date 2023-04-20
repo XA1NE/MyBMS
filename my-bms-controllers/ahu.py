@@ -8,7 +8,7 @@
 # Depending on the type of air handler (AHU-1 or AHU-2), the AHU
 # operates as a primary or secondary system when the mode is set to AUTO.
 #
-# @author: Kamil Kawka
+# @author: XA1NE
 #
 ###
 

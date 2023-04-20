@@ -1,7 +1,7 @@
 /**
  * Selenium Test Suite
  * 
- * @author Kamil Kawka
+ * @author XA1NE
  * 
  */
 

@@ -3,7 +3,7 @@
  * makes sure the device displays the correct information
  * based on the data from its state.
  * 
- * @author Kamil Kawka
+ * @author XA1NE
  * 
  */
 

@@ -2,7 +2,7 @@
  * Dashboard component, allows access to the building data
  * for authenticated users.
  * 
- * @author Kamil Kawka
+ * @author XA1NE
  * 
  */
 

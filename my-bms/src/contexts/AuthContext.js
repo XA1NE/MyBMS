@@ -1,7 +1,7 @@
 /**
  * Backend authentication context.
  * 
- * @author Kamil Kawka
+ * @author XA1NE
  * 
  */
 

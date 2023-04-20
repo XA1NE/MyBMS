@@ -4,7 +4,7 @@
  * Once the page loads a name list of Air Handling Plant components
  * from the database.
  * 
- * @author Kamil Kawka
+ * @author XA1NE
  * @noparam
  * 
  */
@@ -14,9 +14,9 @@ import { useState, useEffect } from 'react';
 import { Container, Row, Col } from "react-bootstrap";
 import deviceStore from '../../../stores/deviceStore';
 
-import AHU from "./assets/AHU";
-import Chiller from "./assets/Chiller";
-import Pump from "./assets/Pump";
+import AHU from "./plant-assets/AHU";
+import Chiller from "./plant-assets/Chiller";
+import Pump from "./plant-assets/Pump";
 
 import EnvironmentalSettings from "./EnvironmentalSettings";
 

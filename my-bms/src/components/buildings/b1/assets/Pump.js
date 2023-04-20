@@ -2,7 +2,7 @@
  * Pump Component, which is a part of the Air Handling Plant.
  * It is responsible for displaying the information about the Pump.
  * 
- * @author Kamil Kawka
+ * @author XA1NE
  * @param {string} deviceName - The name of the device.
  * 
  */

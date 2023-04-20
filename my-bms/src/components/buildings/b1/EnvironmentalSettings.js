@@ -4,7 +4,7 @@
  * imaginary environmental settings to create a simulation
  * of the real environment.
  * 
- * @author Kamil Kawka
+ * @author XA1NE
  * @param {string} deviceName - The name of the device.
  * 
  */

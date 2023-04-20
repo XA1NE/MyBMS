@@ -2,7 +2,7 @@
  * HeartbeatChecker background component, takes a snapshot
  * of the database and checks if the device is still alive.
  * 
- * @author Kamil Kawka
+ * @author XA1NE
  * @noparam
  * 
  */
@@ -12,7 +12,7 @@
  import { Card } from 'react-bootstrap';
  import deviceStore from '../../../stores/deviceStore';
  
- import DeviceHealth from "./assets/DeviceHealth";
+ import DeviceHealth from "./plant-assets/DeviceHealth";
  
  export default function HeartbeatChecker() {
  

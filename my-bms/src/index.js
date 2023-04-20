@@ -3,7 +3,7 @@
  * It uses ReactDOM to render the application to the DOM.
  * 
  * @module src/index.js
- * @author Kamil Kawka
+ * @author XA1NE
  * 
  */
 

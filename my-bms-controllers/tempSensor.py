@@ -5,7 +5,7 @@
 # to simulate the flow and return temperature of coolant
 # supplied by an associated chiller.
 # 
-# @author: Kamil Kawka
+# @author: XA1NE
 #
 ###
 

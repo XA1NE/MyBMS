@@ -3,7 +3,7 @@
  * Function handleLogout() handles logout by destroying the session
  * and redirects to the login page.
  * 
- * @author Kamil Kawka
+ * @author XA1NE
  * 
  */
 
