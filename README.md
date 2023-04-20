@@ -11,4 +11,4 @@ This project consists of the following parts:
 
     * selenium-tests: Selenium tests responsible for integration and functional testing.
 
-    * Project Report: Encompasses the design and thought process behind the entire system.
+    * Project_Report: Encompasses the design and thought process behind the entire system.
